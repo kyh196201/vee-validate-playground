@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "bulma": "^1.0.1",
+    "element-plus": "^2.7.4",
     "vee-validate": "^4.13.0",
     "vue": "^3.4.21",
     "yup": "^1.4.0"
